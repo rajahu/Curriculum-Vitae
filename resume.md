@@ -45,11 +45,20 @@ Windows
     Project Scaffolding:
     YEOMAN
     
+    Package Manager:
+    Bower, NPM
+    
     IDE:
     JetBrains WebStorm
     
     Debuging:
     Chrome DevTools, Firebug
+    
+    Code Review:
+    Crucible
+    
+    Wiki:
+    Confluence
     
     Others:
     Ant
@@ -62,7 +71,7 @@ Responsive Web Design, Functional programming, Asynchronous Programming, Behavio
 > #### Miscellaneous ####
 
 Familiarity:
-Python, Java, PHP
+NodeJS, Python, Java, PHP
 
 Open Source contributor
 
