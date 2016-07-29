@@ -14,7 +14,7 @@ Jinja2, Apache FreeMarker
 
 > #### Libraries/APIs ####
 
-jQuery, jQueryUI, lodash, Chai, Sinon
+jQuery, jQueryUI, pjax, lodash, Chai, Sinon
 
 > #### Frameworks ####
 
