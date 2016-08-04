@@ -6,7 +6,7 @@
 
 > #### Languages ####
 
-HTML5, CSS3, JavaScript, EcmaScript 2015 (ES6)
+HTML5, CSS3, JavaScript, EcmaScript 2015 (ES6), JavaServer Pages (JSP)
 
 > #### Template Engines ####
 
@@ -14,7 +14,7 @@ Jinja2, Apache FreeMarker
 
 > #### Libraries/APIs ####
 
-jQuery, jQueryUI, pjax, lodash, Chai, Sinon
+jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics
 
 > #### Frameworks ####
 
@@ -45,6 +45,9 @@ Windows
     Project Scaffolding:
     YEOMAN
     
+    Project Management/Wiki:
+    Google Docs, Confluence
+        
     Package Manager:
     Bower, NPM
     
@@ -52,14 +55,11 @@ Windows
     JetBrains WebStorm
     
     Debuging:
-    Chrome DevTools, Firebug
+    Chrome DevTools, Firebug, Browsersync
     
     Code Review:
     Crucible
-    
-    Wiki:
-    Confluence
-    
+        
     Others:
     Ant
 
@@ -90,7 +90,22 @@ gTeam
 DEV FACTORY
 
 gDev FZ LLC
-Rapid Prototype Developer
+    
+Senior End Developer (May, 2011 - )
+
+    Ford Direct Dealer Sites
+
+Senior End Developer (June, 2012 - July, 2012)
+
+    WebBased Dealer Ordering
+
+Front End Developer (Jan, 2011 - May, 2011)
+
+    Ford Racing
+    
+Rapid Prototype Developer (Aug, 2009 - Dec, 2010)
+
+    Ford Next Gen Brand Sites
 
 Trilogy Automotive
 
