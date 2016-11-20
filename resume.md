@@ -14,11 +14,11 @@ Jinja2, Apache FreeMarker
 
 > #### Libraries/APIs ####
 
-jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics
+jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics, Google Maps, Bing Maps
 
 > #### Frameworks ####
 
-AngularJS, Twitter Bootstrap, Less, Mocha, Cucumber and Gherkin
+AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin
 
 > #### Storage ####
 
@@ -34,7 +34,7 @@ Windows
     ESLint, JSHint, JSLint, JSCS
     
     Build:
-    Gulp, Grunt
+    Grunt, Gulp, Webpack
     
     Version Control:
     Git, Subversion
