@@ -55,7 +55,7 @@ Windows
     JetBrains WebStorm
     
     Debuging:
-    Chrome DevTools, Firebug, Browsersync
+    Chrome DevTools, Firebug, Browsersync, Postman
     
     Code Review:
     Crucible
