@@ -14,7 +14,7 @@ Jinja2, Apache FreeMarker
 
 > #### Libraries/APIs ####
 
-jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics, Google Maps, Bing Maps
+jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE 
 
 > #### Frameworks ####
 
@@ -30,38 +30,48 @@ Windows
 
 > #### Tools ####
 
+    Build:
+    Webpack, Gulp, Grunt
+
     Code Quality:
     ESLint, JSHint, JSLint, JSCS
-    
-    Build:
-    Grunt, Gulp, Webpack
-    
-    Version Control:
-    Git, Subversion
-    
-    Issue Tracking:
-    Atlassian JIRA, Pivotal Tracker
-    
-    Project Scaffolding:
-    YEOMAN
-    
-    Project Management/Wiki:
-    Google Docs, Confluence
-        
-    Package Manager:
-    Bower, NPM
+
+    Code Review:
+    Crucible
+
+    Debuging:
+    Chrome DevTools, Firebug, Browsersync, Postman
     
     IDE:
     JetBrains WebStorm
     
-    Debuging:
-    Chrome DevTools, Firebug, Browsersync, Postman
+    Issue Tracking:
+    Atlassian JIRA, Pivotal Tracker
+
+    Package Manager:
+    Bower, NPM
+
+    Project Management/Wiki:
+    Google Docs, Confluence
     
-    Code Review:
-    Crucible
-        
+    Project Scaffolding:
+    YEOMAN
+
+    Transpilation:
+    Babel
+    
+    Version Control:
+    Git, Subversion
+    
     Others:
     Ant
+    
+    
+        
+    
+    
+    
+        
 
 
 > #### Paradigms ####
@@ -82,20 +92,22 @@ HTML5 and CSS3, 5 years
 AngularJS, 1 year
 
 ### Employment ###
-UI Specialist (Mar, 2015 - Present) 
-Crossover
 
-gTeam
+Trilogy Automotive (Versata via Crossover)
 
-DEV FACTORY
+Senior Front End Architect (March, 2015 - Present)
 
-gDev FZ LLC
-    
-Senior End Developer (May, 2011 - )
+    Next Gen Dealer Sites
+
+Senior Front End Developer (Oct, 2012 - March, 2015)
+
+    Next Gen Dealer Sites
+
+Senior Front End Developer (May, 2011 - Oct, 2012)
 
     Ford Direct Dealer Sites
 
-Senior End Developer (June, 2012 - July, 2012)
+Senior Front End Developer (June, 2012 - July, 2012)
 
     WebBased Dealer Ordering
 
@@ -106,8 +118,6 @@ Front End Developer (Jan, 2011 - May, 2011)
 Rapid Prototype Developer (Aug, 2009 - Dec, 2010)
 
     Ford Next Gen Brand Sites
-
-Trilogy Automotive
 
 ### Education ###
 
