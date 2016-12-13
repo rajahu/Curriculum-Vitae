@@ -1,3 +1,4 @@
+
 # Muhammad Usman Haider
 ## Islamabad, Pakistan
 
@@ -5,88 +6,22 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 
 > ### Skills
 
-<table>
-	<thead>
-		<tr>
-			<th>Languages</th>
-			<th>Template Engines</th>
-			<th>Libraries/APIs</th>
-			<th>Frameworks</th>
-			<th>Storage</th>
-			<th>Paradigms</th>
-			<th>Platforms</th>
-			<th>Backend Familiarity</th>
-		</tr>		
-	</thead>
-	<tbody>
-		<tr>
-			<td>HTML5, CSS3, JavaScript, <strong>EcmaScript 2015 (ES6)</strong>, JavaServer Pages (JSP)</td>
-			<td>Jinja2, Apache FreeMarker</td>
-			<td>jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE</td>
-			<td>AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin</td>
-			<td>MySQL, MongoDB</td>
-			<td>Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Cross Browser Complaint, Continuous Integration, Functional programming, MVC/MV*, Responsive Web Design, Test Driven Development(TDD)</td>
-			<td>Windows</td>
-			<td>NodeJS, Python, Java, PHP</td>
-		</tr>
-	</tbody>
-</table>
+| Languages     | Template Engines | Libraries/APIs | Frameworks | Storage | Paradigms | Platforms | Backend Familiarity |
+| ------------- | ---------------- | -------------- | ---------- | ------- | --------- | --------- | ------------------- |
+| HTML5, CSS3, JavaScript, **EcmaScript 2015 (ES6)**, JavaServer Pages (JSP) | Jinja2, Apache FreeMarker | jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE | AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin | MySQL, MongoDB | Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Cross Browser Complaint, Continuous Integration, Functional programming, MVC/MVVM, Responsive Web Design, Test Driven Development(TDD) | Windows | NodeJS, Python, Java, PHP |
 
 > ### Tools
 
-<table>
-	<thead>
-		<tr>
-			<th>Build</th>
-			<th>Code Quality</th>
-			<th>Code Review</th>
-			<th>Debuging</th>
-			<th>IDE</th>
-			<th>Issue Tracking</th>
-			<th>Package Manager</th>
-			<th>Project Management/Wiki</th>
-			<th>Project Scaffolding</th>
-			<th>Transpilation</th>
-			<th>Version Control</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Webpack, Gulp, Grunt</td>
-			<td>ESLint, JSHint, JSLint, JSCS</td>
-			<td>Crucible</td>
-			<td>Chrome DevTools, Firebug, Browsersync, Postman</td>
-			<td>JetBrains WebStorm</td>
-			<td>Atlassian JIRA, Pivotal Tracker</td>
-			<td>Bower, NPM</td>
-			<td>Google Docs, Confluence</td>
-			<td>YEOMAN</td>
-			<td>Babel</td>
-			<td>Git, Subversion</td>
-		</tr>
-	</tbody>
-</table>
+| Build         | Code Quality     | Code Review    | Debuging   | IDE     | Issue Tracking | Package Manager | Project Management/Wiki | Project Scaffolding | Transpilation | Version Control |
+| ------------- | ---------------- | -------------- | ---------- | ------- | -------------- | --------------- | ----------------------- | ------------------- | ------------- | --------------- |
+| Webpack, Gulp, Grunt | ESLint, JSHint, JSLint, JSCS | Crucible | Chrome DevTools, Firebug, Browsersync, Postman | JetBrains WebStorm | Atlassian JIRA, Pivotal Tracker | Bower, NPM | Google Docs, Confluence | YEOMAN | Babel | Git, Subversion |
+
 
 > ### Years of Experience
 
-<table>
-	<thead>
-		<tr>
-			<th>JavaScript</th>
-			<th>HTML5 and CSS3</th>
-			<th>jQuery</th>
-			<th>AngularJS</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>8 years</td>
-			<td>5 years</td>
-			<td>4 year</td>
-			<td>2 year</td>
-		</tr>
-	</tbody>
-</table>
+| JavaScript | HTML5 and CSS3 | jQuery  | AngularJS |
+| ---------- | -------------- | ------- | --------- |
+| 8 years    | 5 years        | 4 years | 2 years   |
 
 > ### Employment
 
@@ -116,7 +51,7 @@ Responsibilities:
 - Bug Fix
 - Technologies/API Updates
 
-Technologies: XHTML 1.0, HTML5, CSS2/CSS3, JavaScript, YUI, Apache FreeMarker
+Technologies: XHTML 1.0, HTML5, CSS2/CSS3, JavaScript, YUI, JavaServer Pages (JSP)
 
 #### Senior Front-End Engineer (May, 2011 - Oct, 2012)
 
@@ -130,7 +65,7 @@ A platform that provided dealers with a website powered by e-tools, to help maxi
  - Bug Fix
  - Technologies/API Updates
  
- Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker, Bing Maps
+ Technologies: XHTML 1.0, CSS2, JavaScript, YUI, JavaServer Pages (JSP), Bing Maps
 
 #### Senior Front-End Engineer (June, 2012 - July, 2012)
 
