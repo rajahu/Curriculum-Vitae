@@ -3,6 +3,8 @@
 # Muhammad Usman Haider
 ## Islamabad, Pakistan
 
+A top notch **Front End Web Architect** with over **8 years of experience**, building front-ends for **complex enterprise level web applications**. Committed team player with strong analytical and problem solving skills, willingness to relocate and ability to quickly adapt to new environments and technologies, dedicated to successful project completion.
+
 > ### Skills
 
 <table>
@@ -22,10 +24,10 @@
 		<tr>
 			<td>HTML5, CSS3, JavaScript, EcmaScript 2015 (ES6), JavaServer Pages (JSP)</td>
 			<td>Jinja2, Apache FreeMarker</td>
-			<td>jQuery, jQueryUI, pjax, lodash, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE</td>
+			<td>jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE</td>
 			<td>AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin</td>
 			<td>MySQL, MongoDB</td>
-			<td>Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Continuous Integration, Functional programming, MVC/MV*, Responsive Web Design, Test Driven Development(TDD)</td>
+			<td>Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Cross Browser Complaint, Continuous Integration, Functional programming, MVC/MV*, Responsive Web Design, Test Driven Development(TDD)</td>
 			<td>Windows</td>
 			<td>NodeJS, Python, Java, PHP</td>
 		</tr>
@@ -88,36 +90,83 @@
 
 > ### Employment
 
-Trilogy Automotive (Versata via Crossover)
+#### Trilogy Automotive
 
-Senior Front End Architect (March, 2015 - Present)
+##### Front-End Web Architect (Oct, 2012 - Present)
 
-    Next Gen Dealer Sites
+###### Project - FordDirect Next Gen Dealer Sites
 
-Senior Front End Developer (Oct, 2012 - March, 2015)
+Web-based content management tool for dealers to manage their consumer facing web application.
 
-    Next Gen Dealer Sites
-    Shopping Tools (May 2013)
-    Ford Of Lincoln (MKC Reveal - Jan 2014)
+Responsibilities:
 
-Senior Front End Developer (May, 2011 - Oct, 2012)
+- One of the main architects of all things UI-related
+- Playing a key role in building and maintaining an intuitive user experience
 
-    Ford Direct Dealer Sites
+Technologies: HTML5, CSS3, JavaScript, Jinja2, jQuery, jQueryUI, pjax, Google Analytics, Bing Maps, CKEditor, Twitter Bootstrap, Less, MongoDB, requirejs, Grunt, Gulp 
 
-Senior Front End Developer (June, 2012 - July, 2012)
-
-    WebBased Dealer Ordering
-
-Front End Developer (Jan, 2011 - May, 2011)
-
-    Ford Racing
+#### Senior Front-End Engineer (Oct, 2012 - Dec, 2014)
     
-Rapid Prototype Developer - Front End (Aug, 2009 - Dec, 2010)
+###### Project - FordDirect Shopping Tools (Vehicle Showroom, Search Dealer Inventory)
+A suite of products that enable vehicle shoppers to build, price, compare and view inventory of Ford and Lincoln vehicles online.
 
-    Ford Next Gen Brand Sites
-    Ford Direct Dealer Sites
-    Ford Racing
-    Shopping Tools (Build and Price v2/v3, Showroom and Search Inventory)    
+Responsibilities:
+
+- Feature Request Implementation
+- Bug Fix
+- Technologies/API Updates
+
+Technologies: XHTML 1.0, HTML5, CSS2/CSS3, JavaScript, YUI, Apache FreeMarker
+
+#### Senior Front-End Engineer (May, 2011 - Oct, 2012)
+
+###### FordDirect Dealer Sites
+
+A platform that provided dealers with a website powered by e-tools, to help maximize their online presence.
+ 
+ Responsibilities:
+ 
+ - Feature Request Implementation
+ - Bug Fix
+ - Technologies/API Updates
+ 
+ Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker, Bing Maps
+
+#### Senior Front-End Engineer (June, 2012 - July, 2012)
+
+##### WebBased Dealer Ordering
+
+ Responsibilities:
+ 
+ - Feature Request Implementation
+ - Bug Fix
+ 
+Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker
+
+#### Front-End Engineer (Jan, 2011 - May, 2011)
+
+###### Ford Racing
+
+A platform that provided racing enthusiasts with all information related to Ford Racing Events.
+
+ Responsibilities:
+ 
+ - Literally coded all the UI components from the ground up 
+ - Feature Request Implementation
+ - Bug Fix
+ 
+Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker
+    
+#### Rapid Prototype Developer Front-End (Aug, 2009 - Dec, 2010)
+
+Rapid Prototyping consisted of quickly creating limited functionality Clickable web prototypes, striving in order to translate "Vague Business Requests" into something at least partially functional as quickly as possible, and then handing over those prototypes to the development team for further real implementation.
+
+Projects for which Prototypes were being developed for:
+
+**Ford Racing**
+**Shopping Tools (Build and Price v2/v3, Showroom and Search Inventory)**
+**Ford Direct Dealer Sites**
+**Ford Next Gen Brand Sites**
 
 > ### Education
 
