@@ -1,4 +1,3 @@
-![Muhammad Usman Haider](resources/img/2521723.png "Muhammad Usman Haider")
 
 # Muhammad Usman Haider
 ## Islamabad, Pakistan
@@ -22,7 +21,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 	</thead>
 	<tbody>
 		<tr>
-			<td>HTML5, CSS3, JavaScript, EcmaScript 2015 (ES6), JavaServer Pages (JSP)</td>
+			<td>HTML5, CSS3, JavaScript, <strong>EcmaScript 2015 (ES6)</strong>, JavaServer Pages (JSP)</td>
 			<td>Jinja2, Apache FreeMarker</td>
 			<td>jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE</td>
 			<td>AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin</td>
@@ -76,6 +75,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 		<tr>
 			<th>JavaScript</th>
 			<th>HTML5 and CSS3</th>
+			<th>jQuery</th>
 			<th>AngularJS</th>
 		</tr>
 	</thead>
@@ -83,7 +83,8 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 		<tr>
 			<td>8 years</td>
 			<td>5 years</td>
-			<td>1 year</td>
+			<td>4 year</td>
+			<td>2 year</td>
 		</tr>
 	</tbody>
 </table>
