@@ -1,10 +1,15 @@
-
 # Muhammad Usman Haider
 ## Islamabad, Pakistan
 
 A top notch **Front End Web Architect** with over **8 years of experience**, building front-ends for **complex enterprise level web applications**. Committed team player with strong analytical and problem solving skills, willingness to relocate and ability to quickly adapt to new environments and technologies, dedicated to successful project completion.
 
 > ### Skills
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 <table>
 	<thead>
