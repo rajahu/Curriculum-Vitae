@@ -55,7 +55,7 @@ Technologies: XHTML 1.0, HTML5, CSS2/CSS3, JavaScript, YUI, JavaServer Pages (JS
 
 #### Senior Front-End Engineer (May, 2011 - Oct, 2012)
 
-###### FordDirect Dealer Sites
+###### Project - FordDirect Dealer Sites
 
 A platform that provided dealers with a website powered by e-tools, to help maximize their online presence.
  
@@ -69,7 +69,7 @@ A platform that provided dealers with a website powered by e-tools, to help maxi
 
 #### Senior Front-End Engineer (June, 2012 - July, 2012)
 
-##### WebBased Dealer Ordering
+##### Project - WebBased Dealer Ordering
 
  Responsibilities:
  
@@ -80,7 +80,7 @@ Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker
 
 #### Front-End Engineer (Jan, 2011 - May, 2011)
 
-###### Ford Racing
+###### Project - Ford Racing
 
 A platform that provided racing enthusiasts with all information related to Ford Racing Events.
 
@@ -96,7 +96,7 @@ Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker
 
 Rapid Prototyping consisted of quickly creating limited functionality Clickable web prototypes, striving in order to translate "Vague Business Requests" into something at least partially functional as quickly as possible, and then handing over those prototypes to the development team for further real implementation.
 
-Projects for which Prototypes were being developed for:
+Projects for which Prototypes were being developed for :
 
 **Ford Racing**
 **Shopping Tools (Build and Price v2/v3, Showroom and Search Inventory)**
