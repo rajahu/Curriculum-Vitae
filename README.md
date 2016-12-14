@@ -16,7 +16,6 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 | ------------- | ---------------- | -------------- | ---------- | ------- | -------------- | --------------- | ----------------------- | ------------------- | ------------- | --------------- |
 | Webpack, Gulp, Grunt | ESLint, JSHint, JSLint, JSCS | Crucible | Chrome DevTools, Firebug, Browsersync, Postman | JetBrains WebStorm | Atlassian JIRA, Pivotal Tracker | Bower, NPM | Google Docs, Confluence | YEOMAN | Babel | Git, Subversion |
 
-
 > ## Years of Experience
 
 | JavaScript | HTML5 and CSS3 | jQuery  | AngularJS |
