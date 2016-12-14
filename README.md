@@ -28,7 +28,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 
 ### Front-End Web Architect (Oct, 2012 - Present)
 
-##### Project - FordDirect Next Gen Dealer Sites
+#### Project - FordDirect Next Gen Dealer Sites
 
 Web-based content management tool for dealers to manage their consumer facing web application.
 
@@ -41,7 +41,7 @@ Technologies: HTML5, CSS3, JavaScript, Jinja2, jQuery, jQueryUI, pjax, Google An
 
 ### Senior Front-End Engineer (Oct, 2012 - Dec, 2014)
     
-##### Project - FordDirect Shopping Tools (Vehicle Showroom, Search Dealer Inventory)
+#### Project - FordDirect Shopping Tools (Vehicle Showroom, Search Dealer Inventory)
 A suite of products that enable vehicle shoppers to build, price, compare and view inventory of Ford and Lincoln vehicles online.
 
 Responsibilities:
@@ -54,7 +54,7 @@ Technologies: XHTML 1.0, HTML5, CSS2/CSS3, JavaScript, YUI, JavaServer Pages (JS
 
 ### Senior Front-End Engineer (May, 2011 - Oct, 2012)
 
-##### Project - FordDirect Dealer Sites
+#### Project - FordDirect Dealer Sites
 
 A platform that provided dealers with a website powered by e-tools, to help maximize their online presence.
  
@@ -79,7 +79,7 @@ Technologies: XHTML 1.0, CSS2, JavaScript, YUI, Apache FreeMarker
 
 ### Front-End Engineer (Jan, 2011 - May, 2011)
 
-##### Project - Ford Racing
+#### Project - Ford Racing
 
 A platform that provided racing enthusiasts with all information related to Ford Racing Events.
 
@@ -97,10 +97,10 @@ Rapid Prototyping consisted of quickly creating limited functionality Clickable 
 
 Projects for which Prototypes were being developed for :
 
-**Ford Racing**
-**Shopping Tools (Build and Price v2/v3, Showroom and Search Inventory)**
-**Ford Direct Dealer Sites**
-**Ford Next Gen Brand Sites**
+- **Ford Racing**
+- **Shopping Tools (Build and Price v2/v3, Showroom and Search Inventory)**
+- **Ford Direct Dealer Sites**
+- **Ford Next Gen Brand Sites**
 
 > ## Education
 
