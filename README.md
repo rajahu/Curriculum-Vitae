@@ -26,7 +26,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 
 ### Trilogy Automotive
 
-### Front-End Web Architect (Oct, 2012 - Present)
+### Front-End Web Architect (Oct, 2012 - Dec, 2016)
 
 #### Project - FordDirect Next Gen Dealer Sites
 
