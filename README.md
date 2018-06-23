@@ -20,7 +20,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 
 | JavaScript | HTML5 and CSS3 | jQuery  | AngularJS |
 | ---------- | -------------- | ------- | --------- |
-| 8 years    | 5 years        | 4 years | 2 years   |
+| 8 years    | 5 years        | 4 years | 3 years   |
 
 > ## Employment
 
