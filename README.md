@@ -1,5 +1,5 @@
 
-# Muhammad Usman Haider
+# Muhammad Raja Usman Haider
 ## Islamabad, Pakistan
 
 A top notch **Front End Web Architect** with over **8 years of experience**, building front-ends for **complex enterprise level web applications**. Committed team player with strong analytical and problem solving skills, willingness to relocate and ability to quickly adapt to new environments and technologies, dedicated to successful project completion.
