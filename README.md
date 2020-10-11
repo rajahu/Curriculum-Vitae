@@ -8,7 +8,7 @@ A top notch **Front End Web Architect** with over **8 years of experience**, bui
 
 | Languages     | Template Engines | Libraries/APIs | Frameworks | Storage | Paradigms | Platforms | Backend Familiarity |
 | ------------- | ---------------- | -------------- | ---------- | ------- | --------- | --------- | ------------------- |
-| HTML5, CSS3, JavaScript, **EcmaScript 2015 (ES6)**, JavaServer Pages (JSP) | Jinja2, Apache FreeMarker | jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE | AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin | MySQL, MongoDB | Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Cross Browser Complaint, Continuous Integration, Functional programming, MVC/MVVM, Responsive Web Design, Test Driven Development(TDD) | Windows | NodeJS, Python, Java, PHP |
+| HTML5, CSS3, JavaScript, **EcmaScript 2015 (ES6)**, JavaServer Pages (JSP) | Jinja2, Apache FreeMarker | jQuery, jQueryUI, pjax, requirejs, lodash, YUI, Chai, Sinon, Google Analytics, Google Maps, Bing Maps, CKEditor, TinyMCE | AngularJS, Twitter Bootstrap, Less/Sass, Mocha, Cucumber and Gherkin | MySQL, MongoDB | Agile Software Development, Asynchronous Programming, Behavior-driven Development (BDD), Cross Browser Complaint, Continuous Integration, Functional programming, MVC/MVVM, Responsive Web Design, Test Driven Development(TDD) | Windows, macOS | NodeJS, Python, Java, PHP |
 
 > ## Tools
 
